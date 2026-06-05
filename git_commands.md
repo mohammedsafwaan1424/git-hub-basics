@@ -1,0 +1,3 @@
+-`git add.`
+-`git comit -m "anything"`
+-`git push`
